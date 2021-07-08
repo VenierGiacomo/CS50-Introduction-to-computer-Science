@@ -1,5 +1,5 @@
 # HarvardX-CS50-Introduction-to-Computer-Science
-This repository contains my solutions to Harvard University's [CS50 Introduction to computer science course](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+This repository contains all the solutions to Harvard University's [CS50 Introduction to computer science course](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 About this course
 
